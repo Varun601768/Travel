@@ -77,7 +77,9 @@ It allows users to **search, book, and manage** their travel plans online, while
 <img src="https://github.com/user-attachments/assets/345ac24a-dc8e-43ba-8fd5-cfe9027feb39" width="800" />
 
 ### 📋 Package List  
-![Uploading Screenshot 2025-09-13 191706.png…]()
+### 📋 Package List  
+<img src="https://github.com/user-attachments/assets/
+ 2025-09-13 191706.png" width="800" />
 
 
 ### 📝 Booking Form  
