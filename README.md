@@ -1,4 +1,4 @@
-# ✈️ Travel Booking System
+<img width="1895" height="896" alt="Screenshot 2025-09-13 191013" src="https://github.com/user-attachments/assets/49e5101c-c7e0-461a-bc26-096f1379904f" /># ✈️ Travel Booking System
 
 ## 📌 Project Overview  
 The **Travel Booking System** is a web-based application designed to simplify the process of booking travel packages, hotels, and transportation.  
@@ -72,9 +72,12 @@ It allows users to **search, book, and manage** their travel plans online, while
 
 ## 📷 Project Snapshots  
 
+<img width="1895" height="896" alt="Screenshot 2025-09-13 191013" src="https://github.com/user-attachments/assets/01f9a49a-9978-47c5-88c5-d27390027859" />
 | Homepage | Package List | Booking Form |
 |----------|--------------|--------------|
-| ![Homepage](https://via.placeholder.com/300x200?text=Homepage) | ![Package List](https://via.placeholder.com/300x200?text=Packages) | ![Booking Form](https://via.placeholder.com/300x200?text=Booking+Form) |
+|            <img width="1895" height="896" alt="Screenshot 2025-09-13 191013" src="https://github.com/user-attachments/assets/345ac24a-dc8e-43ba-8fd5-cfe9027feb39" />
+                        |  ![Uploading Screenshot 2025-09-13 191706.png…]() | 
+<img width="1853" height="576" alt="Screenshot 2025-09-13 192104" src="https://github.com/user-attachments/assets/f58b73fc-ae67-4418-b7bd-8c07597d73a1" />
 
 ---
 
