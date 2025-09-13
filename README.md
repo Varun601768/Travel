@@ -1,4 +1,4 @@
-<img width="1895" height="896" alt="Screenshot 2025-09-13 191013" src="https://github.com/user-attachments/assets/49e5101c-c7e0-461a-bc26-096f1379904f" /># ✈️ Travel Booking System
+# ✈️ Travel Booking System
 
 ## 📌 Project Overview  
 The **Travel Booking System** is a web-based application designed to simplify the process of booking travel packages, hotels, and transportation.  
@@ -14,6 +14,7 @@ It allows users to **search, book, and manage** their travel plans online, while
 - 🏨 Book Hotels, Flights, and Packages  
 - 💳 Online Payment Options (Demo)  
 - 📅 View & Manage Bookings  
+- ❌ Cancel Bookings  
 - 📧 Email Notifications (optional)  
 
 ### 🛠️ Admin Features  
@@ -44,40 +45,56 @@ It allows users to **search, book, and manage** their travel plans online, while
 ## 📌 Database Structure (Example)  
 
 ### 🧑 User Table  
-| Field         | Type         | Description             |
-|---------------|-------------|-------------------------|
-| user_id       | INT (PK)    | Unique ID for user      |
-| name          | VARCHAR     | User’s full name        |
-| email         | VARCHAR     | Login & communication   |
-| password      | VARCHAR     | Encrypted password      |
+| Field     | Type      | Description           |
+|-----------|----------|-----------------------|
+| user_id   | INT (PK) | Unique ID for user    |
+| name      | VARCHAR  | User’s full name      |
+| email     | VARCHAR  | Login & communication |
+| password  | VARCHAR  | Encrypted password    |
 
 ### 🏨 Packages Table  
-| Field         | Type         | Description             |
-|---------------|-------------|-------------------------|
-| package_id    | INT (PK)    | Unique ID for package   |
-| title         | VARCHAR     | Package name            |
-| description   | TEXT        | Details of package      |
-| price         | DECIMAL     | Cost of package         |
+| Field       | Type      | Description           |
+|-------------|----------|-----------------------|
+| package_id  | INT (PK) | Unique ID for package |
+| title       | VARCHAR  | Package name          |
+| description | TEXT     | Details of package    |
+| price       | DECIMAL  | Cost of package       |
 
 ### 📅 Bookings Table  
-| Field         | Type         | Description             |
-|---------------|-------------|-------------------------|
-| booking_id    | INT (PK)    | Unique booking ID       |
-| user_id       | INT (FK)    | References User         |
-| package_id    | INT (FK)    | References Package      |
-| booking_date  | DATE        | Date of booking         |
-| status        | VARCHAR     | Confirmed/Pending       |
+| Field        | Type      | Description             |
+|--------------|----------|-------------------------|
+| booking_id   | INT (PK) | Unique booking ID       |
+| user_id      | INT (FK) | References User         |
+| package_id   | INT (FK) | References Package      |
+| booking_date | DATE     | Date of booking         |
+| status       | VARCHAR  | Confirmed/Pending       |
 
 ---
 
 ## 📷 Project Snapshots  
 
-<img width="1895" height="896" alt="Screenshot 2025-09-13 191013" src="https://github.com/user-attachments/assets/01f9a49a-9978-47c5-88c5-d27390027859" />
-| Homepage | Package List | Booking Form |
-|----------|--------------|--------------|
-|            <img width="1895" height="896" alt="Screenshot 2025-09-13 191013" src="https://github.com/user-attachments/assets/345ac24a-dc8e-43ba-8fd5-cfe9027feb39" />
-                        |  ![Uploading Screenshot 2025-09-13 191706.png…]() | 
-<img width="1853" height="576" alt="Screenshot 2025-09-13 192104" src="https://github.com/user-attachments/assets/f58b73fc-ae67-4418-b7bd-8c07597d73a1" />
+### 🏠 Homepage  
+<img src="https://github.com/user-attachments/assets/345ac24a-dc8e-43ba-8fd5-cfe9027feb39" width="800" />
+
+### 📋 Package List  
+<img src="https://github.com/user-attachments/assets/01f9a49a-9978-47c5-88c5-d27390027859" width="800" />
+
+### 📝 Booking Form  
+<img src="https://github.com/user-attachments/assets/f58b73fc-ae67-4418-b7bd-8c07597d73a1" width="800" />
+
+### 👤 User Dashboard  
+<img src="https://github.com/user-attachments/assets/5056b7ee-9787-40b4-b32f-e05163325af0" width="800" />
+
+### 📑 Booking Details  
+<img src="https://github.com/user-attachments/assets/b20a2f82-df8f-4807-918f-7dc74b33ed00" width="800" />
+
+### ❌ Cancel Bookings  
+<img src="https://github.com/user-attachments/assets/03e9b4c4-b62f-41c7-97df-176508532b5c" width="800" />
+
+### 🛡️ Admin Dashboard  
+<img src="https://github.com/user-attachments/assets/66db0850-e6af-43e5-a9e5-853820110244" width="800" />
+
+<img src="https://github.com/user-attachments/assets/7ffecce4-e09f-443c-bcef-b3f06dad9b8e" width="800" />
 
 ---
 
