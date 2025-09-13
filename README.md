@@ -77,13 +77,9 @@ It allows users to **search, book, and manage** their travel plans online, while
 <img src="https://github.com/user-attachments/assets/345ac24a-dc8e-43ba-8fd5-cfe9027feb39" width="800" />
 
 ### 📋 Package List  
-### 📋 Package List  
-<img src="https://github.com/user-attachments/assets/
- 2025-09-13 191706.png" width="800" />
-
+<img src="PASTE_PACKAGE_LIST_IMAGE_LINK_HERE" width="800" />
 
 ### 📝 Booking Form  
-
 <img src="https://github.com/user-attachments/assets/f58b73fc-ae67-4418-b7bd-8c07597d73a1" width="800" />
 
 ### 👤 User Dashboard  
@@ -99,6 +95,7 @@ It allows users to **search, book, and manage** their travel plans online, while
 <img src="https://github.com/user-attachments/assets/66db0850-e6af-43e5-a9e5-853820110244" width="800" />
 
 <img src="https://github.com/user-attachments/assets/7ffecce4-e09f-443c-bcef-b3f06dad9b8e" width="800" />
+
 
 ---
 
